@@ -1,0 +1,31 @@
+.border {
+	border: thin solid gray !important;
+}
+.strong {
+	font-weight: 500 !important;
+}
+#checkPassswordForm {
+	max-width: 500px;
+}
+html, body {
+	height: 100%;
+	width: 100%
+}
+#dogster {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	height: 75px;
+	line-height: 75px;
+	vertical-align: middle;
+}
+#add:hover {
+	background-color: #00FFFF;	
+}
+.dark-yellow {
+			color: #9B870C;
+}
+.red {
+			color: #FF0000;
+}
